@@ -1,0 +1,10 @@
+auth:
+    user: "gabrielsousacb"
+    token: "jpKhcXALvKFhz7LqaFV4"
+path:
+    admim:
+        git: "https://bitbucket.org/corebiz_ag/microservices-admin.git"
+        sub:
+            animale:
+                git:  "https://bitbucket.org/corebiz_ag/admin_animale.git"
+                src: "app/packages/corebiz/admim"
